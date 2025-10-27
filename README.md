@@ -1,5 +1,5 @@
-<h1 align="center">Salut! Je m'appelle Amélie</h1>
-<h3 align="center">Je suis développeuse web Junior</h3>
+<h1>Salut! Je m'appelle Amélie</h1>
+<h3>Je suis développeuse web Junior</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
